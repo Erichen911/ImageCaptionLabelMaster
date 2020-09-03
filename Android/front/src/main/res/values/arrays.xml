@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="sentence1_1">
+        <item >black</item>
+        <item >blue</item>
+        <item >yellow</item>
+        <item >green</item>
+    </string-array>
+
+    <string-array name="sentence1_2">
+        <item >long</item>
+        <item >short</item>
+        <item >wide</item>
+        <item >slim</item>
+        <item >long wide</item>
+        <item >short wide</item>
+        <item >long slim</item>
+        <item >short slim</item>
+    </string-array>
+
+    <string-array name="sentence2_1">
+    <item >top</item>
+    <item >bottom</item>
+    <item >left</item>
+    <item >right</item>
+    <item >top left</item>
+    <item >top right</item>
+    <item >bottom left</item>
+    <item >bottom right</item>
+    </string-array>
+
+    <string-array name="sentence2_2">
+        <item >is a village</item>
+        <item >is a city</item>
+        <item >are many buidings</item>
+        <item >are many trees</item>
+        <item >is a forest</item>
+        <item >is a open field</item>
+        <item >is a wasteland</item>
+        <item >are hilly areas</item>
+        <item >is a port</item>
+    </string-array>
+
+    <string-array name="sentence3_1">
+        <item >top</item>
+        <item >bottom</item>
+        <item >left</item>
+        <item >right</item>
+        <item >top left</item>
+        <item >top right</item>
+        <item >bottom left</item>
+        <item >bottom right</item>
+    </string-array>
+
+    <string-array name="sentence3_2">
+        <item >a village is</item>
+        <item >a city is</item>
+        <item >many buidings are</item>
+        <item >many trees are</item>
+        <item >a forest</item>
+        <item >a open field</item>
+        <item >a wasteland</item>
+        <item >hilly areas are</item>
+        <item >a port is</item>
+    </string-array>
+</resources>
