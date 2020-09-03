@@ -28,13 +28,14 @@ The process of obtaining the labels requires manual operation. The software in t
 ## PC application
 The PC side marking tool interface is divided into three parts, the left side shows the picture, the middle is the marked place for the image, and the right side is the working directory
 
-  <img src="./source/windowswidget.png" />
+<img src="https://raw.githubusercontent.com/Erichen911/ImageCaptionLabelMaster/master/source/Windowswidget.png" />
 
 **FEATURE**: The *suggestion.txt* file in the same level directory stores common grammars, and the software has a quick completion function.
 
 ---
 
 ## Android application
+The marking tool on Android
 
-  <img src="./source/androidwidget.png" height = 400/>
+<img src="https://raw.githubusercontent.com/Erichen911/ImageCaptionLabelMaster/master/source/Androidwidget.png" />
 
